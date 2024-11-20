@@ -1,6 +1,8 @@
 # ABMMarket
 ###### Agent Based Model Market
 
+![Screenshot](https://cloud-axn42ccrb-hack-club-bot.vercel.app/0image.png)
+
 This an agent based model with a webui, that simulates a stock market, with several traders, each with different portfolios, trading on several stocks. The traders evolve, with their models being modified based on new data every so often. By default, it contains 2 stocks, however it is relatively trivial to add more to it.
 
 While this is not an exact replica of the stock market, it should be a pretty good comparison, due to the large amount of trend followers acting a lot like retail investors, and RL investors acting more like proper funds and the like.
