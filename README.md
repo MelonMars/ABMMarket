@@ -3,6 +3,8 @@
 
 ![Screenshot](https://cloud-axn42ccrb-hack-club-bot.vercel.app/0image.png)
 
+You can access a demo at [my VPS](http://45.55.228.84:8521/). PLEASE BE GENTLE ON IT, AND STOP ASAP. I do not have a lot of bandwidth.
+
 This an agent based model with a webui, that simulates a stock market, with several traders, each with different portfolios, trading on several stocks. The traders evolve, with their models being modified based on new data every so often. By default, it contains 2 stocks, however it is relatively trivial to add more to it.
 
 While this is not an exact replica of the stock market, it should be a pretty good comparison, due to the large amount of trend followers acting a lot like retail investors, and RL investors acting more like proper funds and the like.
